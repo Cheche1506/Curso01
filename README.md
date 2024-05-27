@@ -4,3 +4,5 @@
 1. Cheche Barrera
 2. Yttam Rios
 3. Stuart Manco
+4. Bruno Carquin
+5. Danielle Marinelli
