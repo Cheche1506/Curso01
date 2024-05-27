@@ -13,3 +13,9 @@
 2. Infinity War
 3. Nemo
 4. Loki
+
+## Artistas
+1. Adelle
+2. Pepe
+3. Jorge
+4. Danny Ocean
