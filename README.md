@@ -19,3 +19,11 @@
 2. Pepe
 3. Jorge
 4. Danny Ocean
+
+## Colegios
+1. Saco Oliveros
+2. Pamer
+3. Trilce
+4. Reyes Rojos
+5. Pepe Grillo
+6. FMS Colombia
